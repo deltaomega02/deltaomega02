@@ -33,7 +33,7 @@
 | 저장소 | 설명 | 기술 |
 |---|---|---|
 | [line-translator-bot](https://github.com/deltaomega02/line-translator-bot) | LINE 한↔일 실시간 번역·한국어 튜터 봇 (매일 사용 중) | Python, GCP Cloud Functions, Gemini |
-| [wucalc](https://github.com/deltaomega02/wucalc) | 게임 데미지 계산기 — 단위 테스트 167개, TypeScript strict | Next.js, TypeScript, Tesseract OCR |
+| [wucalc](https://github.com/deltaomega02/wucalc) | 게임 데미지 계산기 — 단위 테스트 184개, TypeScript strict | Next.js, TypeScript, Tesseract OCR |
 | [narou-translator](https://github.com/deltaomega02/narou-translator) | 일본 웹소설 번역 Chrome 확장 (작품별 용어집) | JavaScript, Chrome Extension |
 
 공개 저장소의 API 키는 모두 placeholder로 대체되어 있습니다.
