@@ -14,17 +14,17 @@
 
 ## 암호화폐 자동매매 시스템 (개인, 2024.11 ~ 현재)
 
-하나의 문제를 7세대에 걸쳐 다시 설계해 온 기록입니다. 각 세대는 직전 세대의 운영 데이터 분석에서 출발했고, 현행 세대(ATHENA)를 클라우드에서 24시간 운영 중입니다.
+하나의 문제를 7세대에 걸쳐 다시 설계해 온 기록입니다. 각 세대는 직전 세대의 운영 데이터 분석에서 출발했습니다. 현행 운영은 METIS 계열 최신 분기로, 실전·페이퍼 병행 검증 구조로 클라우드에서 24시간 가동 중입니다 (나머지 세대는 중지·보존).
 
 | 세대 | 저장소 | 핵심 |
 |---|---|---|
 | 1 | [valkyr](https://github.com/deltaomega02/valkyr) | 첫 시스템 — 시그널·주문·모니터링 기본 구조 |
 | 2 | [argos](https://github.com/deltaomega02/argos) | AI Chain-of-Thought 추론 도입 |
 | 3 | [omni-archive](https://github.com/deltaomega02/omni-archive) | OODA 루프, 회고 기반 학습 |
-| 4 | [metis](https://github.com/deltaomega02/metis) ([f](https://github.com/deltaomega02/metis-f) · [f2](https://github.com/deltaomega02/metis-f2) · [v5](https://github.com/deltaomega02/metis-v5)) | 분석 파이프라인 구조화. v5에서 데이터 검증 후 AI 제거 |
+| 4 | [metis](https://github.com/deltaomega02/metis) ([f](https://github.com/deltaomega02/metis-f) · [f2](https://github.com/deltaomega02/metis-f2) · [v5](https://github.com/deltaomega02/metis-v5)) | 분석 파이프라인 구조화. v5에서 데이터 검증 후 AI 제거. **최신 분기가 현행 운영 중** |
 | 5 | [hermes](https://github.com/deltaomega02/hermes) ([백테스트 연구](https://github.com/deltaomega02/hermes-backtesting)) | 4년 데이터, 34만 파라미터 조합 전수 백테스트 |
 | 6 | [kairos](https://github.com/deltaomega02/kairos) | 전략 단순화 실험 |
-| 7 | [athena](https://github.com/deltaomega02/athena) | AI 포트폴리오 매니저 (현행 운영) |
+| 7 | [athena](https://github.com/deltaomega02/athena) | AI 포트폴리오 매니저 (중지) — 이후 METIS 계열로 회귀 |
 
 ## 도구
 
