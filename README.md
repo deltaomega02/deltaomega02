@@ -2,7 +2,10 @@
 
 서버 개발자를 지향합니다. 만든 것을 배포하고 **운영하면서 고장나는 걸 직접 겪는 쪽**에 관심이 많고, 그래서 동작하는 것보다 **틀렸을 때 바로 드러나는 구조**를 먼저 만드는 편입니다.
 
-sue020219@gmail.com
+**서버·백엔드 신입 구직 중** (수도권) · sue020219@gmail.com
+
+연성대학교 컴퓨터소프트웨어학과 학사(전공심화) 2026.02 졸업 · **학점 4.23 / 4.5** · 군필
+2024 LINC 3.0 캡스톤디자인 경진대회 **대상** · 일본어 일상회화
 
 ---
 
@@ -21,7 +24,7 @@ sue020219@gmail.com
 
 | 저장소 | 설명 | 기술 |
 |---|---|---|
-| [orbit](https://github.com/deltaomega02/orbit) | AI 패션 코디 추천·가상 착용 — **학사 졸업작품** (3인 팀장, 서버·AI 파이프라인 담당) | Django REST, MySQL, React Native(TS), Gemini |
+| [orbit](https://github.com/deltaomega02/orbit) | AI 패션 코디 추천·가상 착용 — **학사 졸업작품** (3인 팀장 · 아키텍처와 AI 파이프라인 담당, DB·통신 흐름은 팀원과 공동) | Django REST, MySQL, React Native(TS), Gemini |
 | [rubato](https://github.com/deltaomega02/rubato) | AI 여행 경로 추천 — **전문학사 졸업작품**, 교내 캡스톤디자인 경진대회 **대상** (5인 팀장) | Android(Java), PHP, MySQL, GPT-4o + Gemini |
 | [mechu](https://github.com/deltaomega02/mechu) | AI 메뉴 추천 (2학년 팀 프로젝트, 3인 팀장) | Android(Java), SQLite |
 
@@ -51,4 +54,4 @@ AI를 넣었다가 데이터를 보고 뺀 것이 이 시리즈에서 가장 중
 
 ---
 
-공개 저장소의 API 키는 모두 placeholder로 대체되어 있습니다.
+공개 저장소의 API 키와 계정 정보는 모두 placeholder로 대체되어 있습니다.
